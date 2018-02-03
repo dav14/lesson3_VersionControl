@@ -5,16 +5,16 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+2/2/2018
 
 ## Student Name:  
-(First and Last Name)
+Daniel Vincent
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment covers five concepts that I learned in this lesson, and uses Git to do version control. 
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned that version control is an important part of any creative project. 
+2. I learned that version control can be very helpful in any kind of project, not just coding or web design projects. 
+3. I learned that Git is one of the best version control systems that exists. 
 
